@@ -10,17 +10,8 @@ It's a fun website :star_struck:
 
 ```Your feedbacks are most welcomed```
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Contributors:-
 
-<!-- Actual text -->
+![](https://img.shields.io/badge/Sameer Nayak-Priya Verma-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-You can find me on [![Twitter][1.2]][1] <!--, or on [![LinkedIn][3.2]][3].>
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/sameer-nayak-202a01194/
-
+**Show some :heart: by sharing it with your friends**
