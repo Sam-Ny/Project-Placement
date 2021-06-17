@@ -12,6 +12,6 @@ It's a fun website :star_struck:
 
 Contributors:-
 
-![](https://img.shields.io/badge/<Sameer Nayak>-<Priya Verma>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Sameer>-<Priya>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 **Show some :heart: by sharing it with your friends**
