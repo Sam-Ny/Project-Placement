@@ -8,10 +8,10 @@ It's a fun website :star_struck:
 
 `We have tried to make this website an entertaining one. So check it out`
 
-```Your feedbacks are most welcomed
+```Your feedbacks are most welcomed```
+
 ![Hello](https://media.tenor.com/images/e74b49b7704262cd62370a4116c964fa/tenor.gif)
 
-```
 
 Contributors:-
 
