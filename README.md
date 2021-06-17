@@ -1,17 +1,16 @@
-# Project-Placement
+# Project-Placement 🔥
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 It's a fun website :star_struck:
 
-# [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 `We have tried to make this website an entertaining one. So check it out`
 
-```Your feedbacks are most welcomed```
+```Your feedbacks are most welcomed :clap:```
 
 ![Hello](https://media.tenor.com/images/e74b49b7704262cd62370a4116c964fa/tenor.gif)
-
 
 Contributors:-
 
