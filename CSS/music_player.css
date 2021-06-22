@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@1000&display=swap');
+
+#head-music{
+  font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+}
 *{
   font-family: "Poppins", sans-serif;
 }
@@ -6,17 +12,10 @@
   padding: 0;
   margin: 0;
 }
-.headings{
-  text-align: center;
-  text-shadow: 2px 2px 8px black;
-  font-size: 40px;
-}
-.para{
-  text-align: center;
-}
+
 #music-bg{
   padding: 3em 0 3em 0;
-  text-decoration: underline;
+  background: #f28f17;
 }
 #music_player{
   --pink: #ff74a4;
@@ -28,10 +27,11 @@
   --lightbshadow: rgba(0,0,0,0.15);
   /* background: linear-gradient(var(--pink ) 0%, var(--violet) 100%); */
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url('../Images/Music-Player-bg.jpg') no-repeat center center/cover;
+  background: url('../Images/Music-Player-bg-2.jpg') no-repeat center center/cover;
   transition: ease-in 0.7s;
   opacity: .80;
 }
@@ -41,6 +41,7 @@
 
 .wrapper{
   width: 350px;
+  margin-bottom: 30px;
   padding: 25px 30px;
   overflow: hidden;
   position: relative;
@@ -50,7 +51,7 @@
   transition: 0.3s ease-in;
 }
 .wrapper:hover{
-   transform: scale(1.02);
+  transform: scale(1.02);
   box-shadow: 5px 6px 20px rgba(0,0,0,1);
 }
 .wrapper i{
@@ -164,14 +165,14 @@
   transition: ease-in .3s;
 }
 .controls #prev:hover{
-  transform: scale(1.3);
+  transform: scale(1.15);
 }
 .controls #next{
   margin-left: -13px;
   transition: ease-in .3s;
 }
 .controls #next:hover{
-  transform: scale(1.3);
+  transform: scale(1.15);
 }
 .controls .play-pause{
   height: 54px;
