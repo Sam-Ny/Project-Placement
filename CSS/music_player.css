@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@1000&display=swap');
 
-#head-music{
-  font-size: 35px;
-    font-family: 'Dancing Script', cursive;
-}
+
 *{
   font-family: "Poppins", sans-serif;
 }
@@ -16,6 +13,10 @@
 #music-bg{
   padding: 3em 0 3em 0;
   background: #f28f17;
+}
+#head-music{
+  font-size: 35px;
+    font-family: 'Dancing Script', cursive;
 }
 #music_player{
   --pink: #ff74a4;
@@ -288,4 +289,29 @@ ul li .audio-duration{
 ul li.playing{
   pointer-events: none;
   color: var(--violet);
+}
+
+/* Mobile View */
+@media only screen and (max-width: 600px){
+    #head-music{
+      font-size: 20px;
+      /* transform: translate(0em,-3em); */
+      /* flex-shrink: 2; */
+    }
+    #music-player{
+      opacity: 1;
+    }
+    .wrapper{
+      width: 250px;
+      height:490px;
+      line-height: .5em;
+    }
+    .song-timer{
+      padding-top: 10px;
+    }
+    .music-list{
+      line-height: normal;
+    }
+      /* margin-bottom: -4em; */
+      /* margin-top: -3em; */
 }

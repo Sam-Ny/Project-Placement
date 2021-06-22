@@ -13,43 +13,43 @@ let allMusic = [
     {
         name: "Ikson Anywhere – Ikson",
         artist: "Audio Library",
-        img: "cancion-triste-1502",
+        img: "Music-Player-bg",
         src: "cancion-triste-1502"
     },
     {
         name: "Ikson Anywhere – Ikson",
         artist: "Audio Library",
-        img: "cancion-triste-1502",
+        img: "Music-Player-bg-2",
         src: "cancion-triste-1502"
     },
     {
         name: "Beauz & Jvna - Crazy",
         artist: "Beauz & Jvna",
-        img: "music-3",
+        img: "Relaxer",
         src: "music-3"
     },
     {
         name: "Hardwind - Want Me",
         artist: "Mike Archangelo",
-        img: "music-4",
+        img: "Relaxer",
         src: "music-4"
     },
     {
         name: "Jim - Sun Goes Down",
         artist: "Jim Yosef x Roy",
-        img: "music-5",
+        img: "Relaxer",
         src: "music-5"
     },
     {
         name: "Lost Sky - Vision NCS",
         artist: "NCS Release",
-        img: "music-6",
+        img: "Relaxer",
         src: "music-6"
     },
     {
         name: "Chahu mai ya na",
         artist: "~Priya Verma",
-        img: "Sameer_Phoenix",
+        img: "Relaxer",
         src: "Chahu mai ya na"
     },
     // like this paste it and remember to give comma after ending of this bracket }
