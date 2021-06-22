@@ -312,6 +312,9 @@ ul li.playing{
     .music-list{
       line-height: normal;
     }
+    .controls{
+      transform: translate(0,-1em);
+    }
       /* margin-bottom: -4em; */
       /* margin-top: -3em; */
 }
