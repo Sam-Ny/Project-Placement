@@ -112,8 +112,37 @@
   }
 }
 
+/* Mobile view */
+
+
 @media only screen and (max-width:600px){
     #relaxer h1{
       font-size: 20px;
     }
+    .container{
+        height: 225px;
+        width: 225px;
+    }
+    .circle{
+        height: 100%;
+        width: 100%;
+        position: absolute;
+    }
+    .gradient-circle{
+      height: 240px;
+      width: 240px;
+        top: -8px;
+        left: -8px;
+    }
+    .pointer{
+      height: 15px;
+      width: 15px;
+    }
+    .pointer-container{
+      width: 15px;
+      height: 142.5px;
+      top: -30px;
+      left: 105px;
+    }
+
 }
