@@ -8,11 +8,13 @@
     <link rel="stylesheet" href="CSS/relaxer.css" />
     <link rel="stylesheet" href="CSS/music_player.css">
     <link rel="stylesheet" href="CSS/outer_section.css">
+    <link rel="stylesheet" href="CSS/weather.css">
     <title>Doc</title>
 </head>
 <body>
 
     <section id="top_sec">
+
         <!-- Section-1 Relaxer -->
         <section id="relaxer">
             <h1>Relaxer</h1>
@@ -80,10 +82,38 @@
                 </div>
             </div>
         </section>
+
+        <!-- Section-3 Weather App -->
+        
+        <section id="weather-top">
+                <h1 id="weather-head"> Weather </h1>
+                <div class="app-main">
+                <div class="searchInputBox">
+                    <input type="text" id="input-box" class="input-box" placeholder="Enter city name..." autocomplete="off">
+                </div>
+            
+                <div class="weather-body">
+                    <div class="location-details">
+                        <div class="city" id="city">Amravati, IN</div>
+                        <div class="date" id="date">10 June (Wednesday), 2020</div>
+                    </div>
+            
+                    <div class="weather-status">
+                        <div class="temp" id="temp">34&deg;C</div>
+                        <div class="min-max" id="min-max">32&deg;C (min) / 34&deg;C (max)</div>
+                        <div class="weather" id="weather">Clear</div>
+                        <div id="img"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
 
+    <!-- Js files -->
+    
     <script src="JS/relaxer.js"></script>
     <script src="JS/music-list.js"></script>
     <script src="JS/music_player.js"></script>
+    <script src="JS/weather.js"></script>
 </body>
 </html>
