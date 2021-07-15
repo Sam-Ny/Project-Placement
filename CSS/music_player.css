@@ -297,6 +297,7 @@ ul li.playing{
       font-size: 20px;
       /* transform: translate(0em,-3em); */
       /* flex-shrink: 2; */
+      font-family: 'Dancing Script', cursive;
     }
     #music-player{
       opacity: 1;
