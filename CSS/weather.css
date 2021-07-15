@@ -10,9 +10,9 @@
 }
 
 #weather-head{
-  text-align: center;
-  font-size: 35px;
-  margin-bottom: -1em;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: -1em;
 }
 
 .app-main {
@@ -75,6 +75,17 @@
     font-weight: 600;
 }
 
+@media only screen and (max-width:600px){
+
+    #weather-top{
+        background-size: cover;
+    }
+    #weather-head{
+        font-size: 20px;
+    }
+
+
+}
 
 
 
