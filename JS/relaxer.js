@@ -1,4 +1,4 @@
-const container = document.getElementById('container');
+const container = document.getElementById('container_relaxer');
 const text = document.getElementById('text');
 
 const totalTime = 7500;
@@ -9,14 +9,14 @@ breathAnimation();
 
 function breathAnimation() {
   text.innerText = 'Breathe In!';
-  container.className = 'container grow';
+  container.className = 'container_relaxer grow';
 
   setTimeout(() => {
     text.innerText = 'Hold';
 
     setTimeout(() => {
       text.innerText = 'Breathe Out!';
-      container.className = 'container shrink';
+      container.className = 'container_relaxer shrink';
     }, holdTime);
   }, breatheTime);
 }

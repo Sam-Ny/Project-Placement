@@ -16,7 +16,7 @@
   font-size: 35px;
 }
 
-.container {
+.container_relaxer {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,7 +84,7 @@
   }
 }
 
-.container.grow {
+.container_relaxer.grow {
   animation: grow 3s linear forwards;
 }
 
@@ -98,7 +98,7 @@
   }
 }
 
-.container.shrink {
+.container_relaxer.shrink {
   animation: shrink 3s linear forwards;
 }
 
@@ -119,7 +119,7 @@
     #relaxer h1{
       font-size: 20px;
     }
-    .container{
+    .container_relaxer{
         height: 225px;
         width: 225px;
     }

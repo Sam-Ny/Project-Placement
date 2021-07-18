@@ -10,21 +10,26 @@
 }
 
 #weather-head{
-    text-align: center;
-    font-size: 35px;
-    margin-bottom: -1em;
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: -1em;
+  color: rgb(0, 0, 0);
 }
 
 .app-main {
     width: 50vh;
     margin: 100px auto;
-    background-color: rgba(240,248,255, 0.6);
+    background-color: rgba(187, 202, 217, 0.6);
     padding: 20px;
     text-align: center;
 }
 
 .app-main > * {
     margin-bottom: 20px;
+}
+
+.searchInputBox{
+    padding-right: 20px;
 }
 
 .input-box {
@@ -75,17 +80,6 @@
     font-weight: 600;
 }
 
-@media only screen and (max-width:600px){
-
-    #weather-top{
-        background-size: cover;
-    }
-    #weather-head{
-        font-size: 20px;
-    }
-
-
-}
 
 
 
