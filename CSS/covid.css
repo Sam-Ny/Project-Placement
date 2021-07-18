@@ -18,12 +18,12 @@ img {
 
 .wordlwide {
   background-color: antiquewhite;
-  height: 282px;
+  height: 220px;
 }
 
 .philippines {
   background-color: aquamarine;
-  height: 282px;
+  height: 220px;
 }
 
 .wordlwide,
@@ -76,11 +76,11 @@ img {
   color: brown;
 }
 
+.stats_head{
+  text-align: center;
+}
+
 @media (min-width: 650px) {
-  .world__status,
-  .phil__status {
-    justify-content: flex-start;
-  }
 
   .image {
     display: block;
@@ -148,7 +148,18 @@ img {
 
 @media (max-width: 768px) {
 
+  .world__status,
+  .phil__status {
+    display: grid;
+  }
 
+  .wordlwide {
+  height: 400px;
+}
+
+.philippines {
+  height: 400px;
+}
   .flag,
   ul {
     width: 100%;
