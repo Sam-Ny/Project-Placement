@@ -6,7 +6,7 @@ It's a fun website :star_struck:
 
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-`We have tried to make this website an entertaining one. So check it out`
+`We have tried to make this website an interesting one. So check it out`
 
 ```Your feedbacks are most welcome``` :pray:
 
