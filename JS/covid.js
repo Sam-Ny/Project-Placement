@@ -31,7 +31,7 @@ function searchResultUI(data) {
     <div class="flag">
         <img src=${item.countryInfo.flag} alt="" />
     </div>
-     <ul>
+    <ul>
         <li>
         <p>
             Cases: ${formatNumber(item.cases)} | Today: ${formatNumber(
@@ -43,7 +43,7 @@ function searchResultUI(data) {
             Critical ${formatNumber(item.critical)}
           </p>
         </li>
-     </ul>
+    </ul>
     `;
     }, 2000);
   }
